@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenAppdev
 - 👀 I’m interested in learning and creating applications
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any project that will grow my programming knowledge
+- 💞️ I’m looking to collaborate on any project that will help me learn applications development
 - 📫 You can reach me here at github or by email
 
 <!---
